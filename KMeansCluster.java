@@ -1,7 +1,6 @@
 /*
  * Name: Angitha Mathew
- * Student ID:21239691
- * LSDA ASSIGNMENT 4
+
  * K means clustering for Tweets
  */
 
